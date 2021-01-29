@@ -1,2 +1,2 @@
 # cypress-basics
-Basic Cypress test I've written to get to know the framework
+Basic Cypress tests I've written to get to know the framework
